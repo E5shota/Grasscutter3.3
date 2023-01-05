@@ -8,3 +8,5 @@
 ![](https://github.com/E5shota/img/blob/main/Windows%20powershell.png)  ![](https://github.com/E5shota/img/blob/main/456.png)
 # 或者使用在地址栏中直接输入CMD，然后输入`java -jar   grasscutter.jar`后按下回车Enter  
 ![](https://github.com/E5shota/img/blob/main/123.png) ![](https://github.com/E5shota/img/blob/main/234.png) ![](https://github.com/E5shota/img/blob/main/cmd.png)
+# 下载<a href="https://github.com/E5shota/Grasscutter3.3/blob/main/%E9%80%82%E9%85%8D%E8%A1%A5%E4%B8%81.zip">适配补丁</a>
+# 下载完成后打开原神，按下图说明把压缩包中的两个东西放到指定位置
